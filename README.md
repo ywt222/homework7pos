@@ -12,4 +12,4 @@
 -   以上步骤需要写到一张纸上，且不能有涂改痕迹
 -   拍照后上传到github        
 -   详细内容[点这里](https://github.com/wengjiaojiao/pos/tree/master/pos_v1)       
-![pos](pos.jpg)
+![pos](pos.jpg)    
